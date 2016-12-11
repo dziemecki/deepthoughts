@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<toaddress>dan@ziemecki.com</toaddress>
+<toname>Dan Ziemecki</toname>
+<subject>Consider this...</subject>
+<message>D:\Projects\Coding\TotD\www\message.txt</message>
+</config>

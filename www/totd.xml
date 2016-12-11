@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<system>
+	<sendmethod>evernote</sendmethod>
+</system>
+<evernote>
+	<evernotedatabase>"D:\Misc\Evernote\Databases\dziemecki.exb"</evernotedatabase>
+	<enscript>"D:\Program Files\Evernote\Evernote\ENScript"</enscript>
+	<notebook>.Inbox</notebook>
+</evernote>
+<smeggymail>
+	<toaddress>dan@ziemecki.com</toaddress>
+	<toname>Dan Ziemecki</toname>
+	<subject>Consider this...</subject>
+	<message>message.txt</message>
+	<mailer>"D:\Projects\Coding\SmeggyMail\www\smservice.php"</mailer>
+</smeggymail>
+</config>

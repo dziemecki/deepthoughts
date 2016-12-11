@@ -1,0 +1,1 @@
+D:\Projects\Coding\TotD\php\php-cgi.exe D:\Projects\Coding\TotD\www\service.php

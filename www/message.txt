@@ -1,0 +1,6 @@
+<div style="background-color:#c0c0c0; font-size: 24px;">
+You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
+</div>
+<div style="background-color:#78a57d; font-style: italics;">
+ - <i>Bhagavad Gita</i>
+</div>
